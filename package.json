@@ -1,0 +1,11 @@
+{
+  "name": "sort-example",
+  "version": "1.0.0",
+  "description": "Display sorting algorithms for Movology interview",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rochelle Chan <rochelle.r.chan@gmail.com>",
+  "license": "ISC"
+}
